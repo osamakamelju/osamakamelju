@@ -1,6 +1,14 @@
 <h1 align="center">Hi 👋, I'm Osama Kamel</h1>
 <h3 align="center">Jag är redo att kickstarta min karriär som utvecklare! 🚀</h3>
 
+- 🎓 Nyexaminerad utvecklare med **en bred kunskapsbas inom .NET och webbutveckling.**
+
+- 🤙🏻 Har du några frågor eller funderingar **så tveka inte att kontakta mig!**
+
+- 🎯 Målet är att arbeta **som fullstack-utvecklare / .NET-utvecklare.**
+
+- 🧔🏻 Som person är jag **nyfiken, ambitiös och kreativ.**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
